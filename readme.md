@@ -14,5 +14,7 @@ Stage all files on next version
 Unstage all files
 >git rm --cached -r .
 
-Define files from next version
+Define files from next version and clean working tree. Commit are hash version from the project
 >git commit -m "same info aboutt commit"
+
+
