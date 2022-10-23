@@ -20,3 +20,4 @@ Define files from next version and clean working tree. Commit generate hash vers
 Navigate into commits or branchs
 >git checkout <hash>
 
+blabasdasdasdasdsa
