@@ -35,3 +35,9 @@ Unmerge conflicted branchs
 Delete branch
 >git branch -D <branch>
 
+Create a tag 
+>git tag <tagname>
+
+View Tags
+>git tag
+
