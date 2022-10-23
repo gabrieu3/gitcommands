@@ -32,4 +32,6 @@ Merge branchs
 Unmerge conflicted branchs
 >git merge --abort
 
+Delete branch
+>git branch -D <branch>
 
