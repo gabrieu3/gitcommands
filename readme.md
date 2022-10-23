@@ -17,4 +17,6 @@ Unstage all files
 Define files from next version and clean working tree. Commit are hash version from the project
 >git commit -m "same info aboutt commit"
 
+Navigate into commits
+>git checkout <hash>
 
