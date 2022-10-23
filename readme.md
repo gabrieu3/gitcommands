@@ -26,3 +26,10 @@ Navigate into commits or branchs
 See all repository branchs
 >git branch
 
+Merge branchs
+>git merge <branch>
+
+Unmerge conflicted branchs
+>git merge --abort
+
+
