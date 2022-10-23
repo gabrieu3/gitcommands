@@ -14,6 +14,9 @@ Stage all files on next version
 Unstage all files
 >git rm --cached -r .
 
+Restore modifications on file
+>git restore <filename>
+
 Define files from next version and clean working tree. Commit generate hash versions from the project
 >git commit -m "same info aboutt commit"
 
